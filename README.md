@@ -57,7 +57,7 @@ All images (e.g., profile picture) are located in the images folder.
 
 ## Live Portfolio
 You can view my portfolio live here:  
-[My E-Portfolio](https://yourusername.github.io/my-e-portfolio/)
+[My E-Portfolio](https://chrisjahcure.github.io/MY-E-PORTFOLIO/)
 
 ---
 
